@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon May  8 22:18:48 2023
+# Process ID: 18548
+# Current directory: C:/Users/arran/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15640 C:\Users\arran\project_2\project_2.xpr
+# Log file: C:/Users/arran/project_2/vivado.log
+# Journal file: C:/Users/arran/project_2\vivado.jou
+# Running On: DESKTOP-0B2493G, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 4, Host memory: 17000 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/arran/project_2/project_2.xpr
+update_compile_order -fileset sources_1
